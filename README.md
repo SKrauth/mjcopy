@@ -4,7 +4,7 @@ This was one of the first things I made with Gainesville Dev Academy. The idea w
 
 ### Sample Code
 
-```
+```JavaScript
 $("#fun").hover(function(){
     $("#fun").toggleClass("make-salmon");
 });
